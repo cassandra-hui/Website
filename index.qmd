@@ -2,6 +2,8 @@
 title: "Website"
 ---
 
+[![](https://zenodo.org/badge/991596782.svg)](https://doi.org/10.5281/zenodo.15538668)
+
 In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
 
 -   Understanding the different columns of the data set
